@@ -47,7 +47,7 @@ Al igual que la clase GRAL, la clase Cuidador cuenta con los constructores y fun
 ## Tecnología usada 
 Eclipse IDE 2020-12 - versión 4.18 
 
-## Librerías necesarias
+## Paquetees necesarios
 
 Se leen los datos de los cuidadores de un archivo de texto. Para leer los datos es necesario utilizar la clase Scanner, la cual se tiene que importar:
     `import java.util.Scanner`
