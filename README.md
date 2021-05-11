@@ -1,6 +1,6 @@
 # SILBER
 
-**Silber** es una simulación de una aplicación de escritorio para un sistema que conecta adultos mayores con cuidadores. Está diseñada para ejemplificar y poner en práctica las herramientas y principios básicos de la programación orientada a objetos (POO) y algunas estructuras de datos en Java. 
+**Silber** es una simulación de una aplicación de escritorio para un sistema que conecta adultos mayores con cuidadores. Está diseñada para ejemplificar y poner en práctica las herramientas y principios básicos de la programación orientada a objetos (POO) y algunas estructuras de datos en **Java**. 
 
 [Link de video demo](https://www.youtube.com/watch?v=kzXJhrQ6Jqo)
 
