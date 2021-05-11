@@ -12,7 +12,7 @@
 -   [Tecnología usada](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#tecnología-usada)
     
 -   [Paquetes necesarios](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#paquetes-necesarios)
-- [Capturas de pantalla](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#capturas-de-panalla)
+- [Capturas de pantalla](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#capturas-de-pantalla)
     
 -   [Configuración y prueba](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#configuración-y-prueba)
     
@@ -47,7 +47,7 @@ Al igual que la clase GRAL, la clase Cuidador cuenta con los constructores y fun
 ## Tecnología usada 
 Eclipse IDE 2020-12 - versión 4.18 
 
-## Paquetees necesarios
+## Paquetes necesarios
 
 Se leen los datos de los cuidadores de un archivo de texto. Para leer los datos es necesario utilizar la clase Scanner, la cual se tiene que importar:
     `import java.util.Scanner`
@@ -78,7 +78,8 @@ Después de haber descargado el ZIP de GitHub, tenemos que importar el proyecto 
 Para probar el proyecto hay que correr el archivo que se llama **ControladorInicio1.**
 
 <img src="https://lh3.googleusercontent.com/D6_126HvWbfAnrk9g6-gX0C4AdZssvE_trlXdb3LvEv9g9VCdIszZn4uT3-IvHIVHHbO3ip6Rq0CStvFwNG-6dluIduwKqkDCli3QVKaEQ-B9oUemqorojLtYa3DkdCtlh3Qdxx1" width="250" /> 
-# Inspiración
+
+## Inspiración
 
 La inspiración para este proyecto nace de conocer sobre las estimaciones demográficas de la población en México de los próximos años y de la urgencia de empezar a implementar soluciones tecnológicas para las necesidades de las personas mayores.
 
