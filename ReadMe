@@ -1,0 +1,56 @@
+# SILBER
+
+**Silber** es una simulación de una aplicación de escritorio para un sistema que conecta adultos mayores con cuidadores. Está diseñada para ejemplificar y poner en práctica las herramientas y principios básicos de la programación orientada a objetos (POO) y algunas estructuras de datos en Java. 
+
+Link de video demo
+
+
+# Tabla de contenidos:
+
+-   Información general
+    
+-   Tecnología usada
+    
+-   Características
+    
+-   Configuración y prueba
+    
+-   Inspiración
+    
+-   Status
+
+## Información General
+
+
+ 
+Se usan tres clases principales:
+
+1.  CLASE SILBER:
+    
+
+Es la clase que da funcionalidad a toda la interfaz y al proyecto completo.  Hace la unión y relación entre las otras dos clases que constituyen el programa.![](https://lh3.googleusercontent.com/RJnbGL3SVhzvn_wQVRh0_A9DbUP2V94jHR7VrSWNRq55S9dASeDLOPIxEmiZXOn-uPl5tXydPr0N_s50a-QbUbOqLpY2ZhhtKILy1ABouV073isMd-6EQ2BMa2LiNyXXI_bVmopW)
+
+2.  CLASE GRAL:
+    
+
+Definida para los adultos mayores. Cuenta con los constructores y las funciones básicas de definición de un objeto en Java.
+
+3.  CLASE CUIDADOR:
+    
+
+Al igual que la clase GRAL, la clase Cuidador cuenta con los constructores y funciones básicas de definición de un objeto en Java.
+
+## Tecnología usada 
+Eclipse IDE 2020-12 - versión 4.18
+
+## Características 
+
+LECTURA DE DATOS POR MEDIO DE LA CLASE SCANNER
+
+-   El programa lee los datos de los cuidadores de un archivo de texto. Para leer los datos es necesario utilizar la clase Scanner, la cual se tiene que importar:
+     
+     "import java.util.Scanner"
+        ]
+    }
+   
+
