@@ -11,14 +11,14 @@
 
 -   [Tecnología usada](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#tecnología-usada)
     
--   [Paquetes necesarios](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#Paquetes-necesarios)
-- [Capturas de pantalla](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#Capturas-de-panalla)
+-   [Paquetes necesarios](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#paquetes-necesarios)
+- [Capturas de pantalla](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#capturas-de-panalla)
     
--   [Configuración y prueba](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#Configuración-y-prueba)
+-   [Configuración y prueba](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#configuración-y-prueba)
     
--   [Inspiración](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#Inspiración)
+-   [Inspiración](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#inspiración)
     
--    [Status](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#Status)
+-    [Status](https://github.com/LuciaLizardi/ProyectoSilber/blob/master/README.md#status)
 
 
 ## Información General
