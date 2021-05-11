@@ -7,7 +7,7 @@
 
 # Tabla de contenidos:
 
-- Información general
+-   [Información General](https://github.com/LuciaLizardi/ProyectoSilber/edit/master/README.md#Información-general)
 
 -   Tecnología usada
     
@@ -18,7 +18,7 @@
     
 -   Inspiración
     
--    [Status](https://github.com/LuciaLizardi/ProyectoSilberREADME-cheatsheet#Status)
+-    [Status](#Status)
 
 
 ## Información General
