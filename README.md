@@ -79,7 +79,9 @@ Se leen los datos de los cuidadores de un archivo de texto. Para leer los datos 
 ## Capturas de pantalla
  
 
-  <img src="https://lh6.googleusercontent.com/8r7MTQUn0p_mS99iJU4I5LbFmrx5qwXZXBPP9JC1SHk1Ac_jLIqkghQunrFPnHuh62l6goSeuoK0Eteinu8w1kWA67fqt0ajAUlBYeV_CdHNYMoh7zOLUI2FPjrWVFgxZfPZEx94" width="400" /> <img src="https://lh4.googleusercontent.com/Q2eJ0Qzj8OCoJdZI8fYKyNaXFKBCxGxcHQ5u3v5UNJNBf0yV4MRWzoHRTm-WFpE7DM7tGMWhxwCfWJzIbu58hGbVR9CQa4WP7eUSnSGEmehJglR1veuySdePBoBaK78RRzFerBYf" width="450" />  
+  <img src="https://lh6.googleusercontent.com/8r7MTQUn0p_mS99iJU4I5LbFmrx5qwXZXBPP9JC1SHk1Ac_jLIqkghQunrFPnHuh62l6goSeuoK0Eteinu8w1kWA67fqt0ajAUlBYeV_CdHNYMoh7zOLUI2FPjrWVFgxZfPZEx94" width="400" /> 
+  
+  <img src="https://lh4.googleusercontent.com/Q2eJ0Qzj8OCoJdZI8fYKyNaXFKBCxGxcHQ5u3v5UNJNBf0yV4MRWzoHRTm-WFpE7DM7tGMWhxwCfWJzIbu58hGbVR9CQa4WP7eUSnSGEmehJglR1veuySdePBoBaK78RRzFerBYf" width="450" />  
   
 
 
