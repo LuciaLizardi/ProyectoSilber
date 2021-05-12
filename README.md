@@ -41,8 +41,20 @@ Definida para los adultos mayores. Cuenta con los constructores y las funciones 
 
 3. **Clase cuidador:**
     
-
 Al igual que la clase GRAL, la clase Cuidador cuenta con los constructores y funciones básicas de definición de un objeto en Java.
+
+**Características del código:**
+- Se usan arreglos paralelos para guardar la información de los adultos mayores registrados y la información de los cuidadores. Al ser paralelos se asignan cuidadores a los usuarios. 
+- Se usan matrices para registrar medicinas.
+- Se usan *ArrayLists* para registrar cuidados especiales. 
+
+
+**Algunas de las funcionalidades que tiene el programa son:**
+- Dar de alta adultos mayores al introducir algunos datos personales (también se puede dar de baja del sistema con un ID dado).
+- Registrar cuidados especiales y medicinas
+- Asignar cuidadores a cada adultx mayor
+- Mostrar perfil de usuario  dado un ID.
+
 
 ## Tecnología usada 
 Eclipse IDE 2020-12 - versión 4.18 
@@ -67,7 +79,7 @@ Se leen los datos de los cuidadores de un archivo de texto. Para leer los datos 
 ## Capturas de pantalla
  
 
-  <img src="https://lh6.googleusercontent.com/8r7MTQUn0p_mS99iJU4I5LbFmrx5qwXZXBPP9JC1SHk1Ac_jLIqkghQunrFPnHuh62l6goSeuoK0Eteinu8w1kWA67fqt0ajAUlBYeV_CdHNYMoh7zOLUI2FPjrWVFgxZfPZEx94" width="400" /> <img src="https://lh4.googleusercontent.com/Q2eJ0Qzj8OCoJdZI8fYKyNaXFKBCxGxcHQ5u3v5UNJNBf0yV4MRWzoHRTm-WFpE7DM7tGMWhxwCfWJzIbu58hGbVR9CQa4WP7eUSnSGEmehJglR1veuySdePBoBaK78RRzFerBYf" width="400" />  
+  <img src="https://lh6.googleusercontent.com/8r7MTQUn0p_mS99iJU4I5LbFmrx5qwXZXBPP9JC1SHk1Ac_jLIqkghQunrFPnHuh62l6goSeuoK0Eteinu8w1kWA67fqt0ajAUlBYeV_CdHNYMoh7zOLUI2FPjrWVFgxZfPZEx94" width="400" /> <img src="https://lh4.googleusercontent.com/Q2eJ0Qzj8OCoJdZI8fYKyNaXFKBCxGxcHQ5u3v5UNJNBf0yV4MRWzoHRTm-WFpE7DM7tGMWhxwCfWJzIbu58hGbVR9CQa4WP7eUSnSGEmehJglR1veuySdePBoBaK78RRzFerBYf" width="450" />  
   
 
 
